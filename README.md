@@ -1,5 +1,5 @@
-# Shodan-Country-Crawler-
-Crawl country details (including all banners) based on SHODAN NodeJS API
+# Shodan Country Crawler Nodejs
+Crawl IPs of a specific country (including all banners) using SHODAN NodeJS API.
 
 # Requirements
 - NodeJS
